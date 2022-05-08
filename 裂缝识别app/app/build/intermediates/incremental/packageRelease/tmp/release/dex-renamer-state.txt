@@ -1,0 +1,4 @@
+#Fri Apr 09 20:46:31 CST 2021
+base.0=/Users/jouch/Desktop/lab/裂缝识别app/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>裂缝2</folder>
+	<filename>1 (1272).jpg</filename>
+	<path>C:\Users\mao\Desktop\裂缝2\1 (1272).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crack</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>350</xmin>
+			<ymin>1</ymin>
+			<xmax>619</xmax>
+			<ymax>1024</ymax>
+		</bndbox>
+	</object>
+</annotation>

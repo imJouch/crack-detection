@@ -1,0 +1,3 @@
+/Users/jouch/Desktop/lab/裂缝识别app/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/jouch/Desktop/lab/裂缝识别app/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/jouch/Desktop/lab/裂缝识别app/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/yolov5ncnn.dir
